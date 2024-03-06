@@ -1,0 +1,38 @@
+.App{
+  text-align: center;
+  width: 100%;
+  background-color: white;
+  margin: 0%;
+  padding: 0%;
+}
+
+.taskList{
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.3rem;
+  padding: 0;
+
+}
+.icons{
+  width: 25%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.taskL{
+  background-color: lavender;
+  height: max-content;
+  padding: 3% 5%;
+}
+
+
+.taskInputs{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4%;
+  margin-bottom: 5%;
+  justify-content: center;
+  align-content: center;
+}
+
